@@ -3,6 +3,12 @@
 ## Project Overview
 This is a modern, professional website for PT Cloud System Indonesia, a company specializing in cloud solutions and services. The website showcases the company's services, team members, client testimonials, and provides a contact form for inquiries.
 
+## Project Overview
+
+![PT Cloud System Indonesia](1.png)
+
+This is a modern, professional website for PT Cloud System Indonesia, a company specializing in cloud solutions and services. The website showcases the company's services, team members, client testimonials, and provides a contact form for inquiries.
+
 ## Features
 - Responsive design that works on mobile, tablet, and desktop devices
 - Modern UI with animations powered by Framer Motion
